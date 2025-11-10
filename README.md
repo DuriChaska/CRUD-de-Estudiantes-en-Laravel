@@ -24,7 +24,7 @@ Manejo de Datos: Eloquent ORM
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/DuriChaska/CRUD-de-Estudiantes-en-Laravel
-Deploy: https://github.com/DuriChaska/CRUD-de-Estudiantes-en-Laravel/tree/deploy
+Deploy: https://github.com/DuriChaska/CRUD-de-Estudiantes-en-Laravel
 
 ## 📝 Reflexión Personal
 
