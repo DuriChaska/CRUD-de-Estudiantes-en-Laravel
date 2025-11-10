@@ -1,7 +1,9 @@
 ## Ejercicio: CRUD de Gestión Académica
 
 Nombre: Kim Du Ri Carrillo Chávez
+
 Número de Control: 23150326
+
 Materia: Programación Web 
 
 ## 📌 Descripción
